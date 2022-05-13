@@ -17,7 +17,7 @@ quantum computing is a promising approach to quantum computing that uses the pro
 (QDs) are man-made nanoscale crystals that that can transport electrons. When UV light hits these semiconducting nanoparticles, they can emit light of various colors. These artificial semiconductor nanoparticles that have found applications in composites, solar cells and fluorescent biological labels.
 
 ### A Rydberg atom 
-is an excited atom with one or more electrons that have a very high principal quantum number, n. The higher the value of n, the farther the electron is from the nucleus, on average.
+is an excited atom with one or more electrons that have a very high principal quantum number, n. The higher the value of n, the farther the electron is from the nucleus, on average. Rydberg atom arrays are a leading platform for quantum computing and simulation, combining strong interactions with highly coherent operations and flexible geometries. However, the achievable fidelities are limited by the finite lifetime of the Rydberg states, as well as technical imperfections such as atomic motion.
 
 
 
