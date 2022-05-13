@@ -18,7 +18,8 @@ quantum computing is a promising approach to quantum computing that uses the pro
 
 ### A Rydberg atom 
 is an excited atom with one or more electrons that have a very high principal quantum number, n. The higher the value of n, the farther the electron is from the nucleus, on average.
-- 
+
+
 
 ## Port to the TEC-1
 - https://turbofuture.com/computers/build-quantum-computer
