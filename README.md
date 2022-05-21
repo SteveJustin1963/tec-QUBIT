@@ -34,6 +34,13 @@ is that Lagrangian mechanics describe the difference between kinetic and potenti
 - https://turbofuture.com/computers/build-quantum-computer
 - https://github.com/Spooky-Manufacturing
 
+```
+a.c
+a.f83
+```
+
+
+
 ### how do you program in it?
 - https://try.q-ctrl.com/blackopal-app/
 - https://qiskit.org/textbook/what-is-quantum.html, https://qiskit.org/textbook/preface.html
