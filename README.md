@@ -1,12 +1,12 @@
 # tec-QUBIT
 TEC-1 Quantum computer
 
+The study of quantum computing is a subfield of quantum information science. There are several types of quantum computers (also known as quantum computing systems), including the quantum circuit model, quantum Turing machine, adiabatic quantum computer, one-way quantum computer, and various quantum cellular automata. A quantum computer is a computer that uses quantum mechanics to store and process information. The basic principle behind quantum computing is that a quantum bit (qubit) can represent a zero and a one at the same time, and that quantum computers can exploit this fact to solve certain problems much faster than classical computers.
+
 The Bloch sphere is a geometrical representation of pure single-qubit states as a point on the unit sphere [1]. Operations on single qubits commonly used in quantum information processing can be represented on the Bloch sphere.
 
 ![image](https://user-images.githubusercontent.com/58069246/168208704-accd312d-889d-4fb1-8918-afbac26e6cf5.png)
 
-
-The study of quantum computing is a subfield of quantum information science. There are several types of quantum computers (also known as quantum computing systems), including the quantum circuit model, quantum Turing machine, adiabatic quantum computer, one-way quantum computer, and various quantum cellular automata. A quantum computer is a computer that uses quantum mechanics to store and process information. The basic principle behind quantum computing is that a quantum bit (qubit) can represent a zero and a one at the same time, and that quantum computers can exploit this fact to solve certain problems much faster than classical computers.
 
 
 ## Port to the TEC-1
