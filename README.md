@@ -28,9 +28,10 @@ is that Lagrangian mechanics describe the difference between kinetic and potenti
 
 
 
-## Port to the TEC-1
+## Port to the TEC-1 - quantum random number generator (QRNG).
 - https://turbofuture.com/computers/build-quantum-computer
 - https://github.com/Spooky-Manufacturing
+- https://en.wikipedia.org/wiki/KLM_protocol
 
 
 This program generates a random bit using a quantum random number generator (QRNG).
@@ -42,6 +43,10 @@ The H and V variables store the output of the photoresistors. If H is greater th
 a.c
 a.f83
 ```
+
+### how to build a QC
+
+
 
 
 
