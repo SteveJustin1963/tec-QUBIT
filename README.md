@@ -1,8 +1,6 @@
-# tec-QUBIT
-TEC-1 Quantum computer
+# tec-QUBIT    TEC-1 Quantum computer
 
-a baby qc for the tec1
-how ?
+aka a new kind of tec1, a TQC-1
 
 
 
