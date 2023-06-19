@@ -66,5 +66,8 @@ Step-by-Step Guide:
 
 Remember, while this setup can simulate the behavior of a qubit and demonstrate basic quantum principles, it doesn't have the computational power of a full-scale quantum computer. This setup is a learning tool to visualize and understand the fundamental operations of quantum computing using polarized light as an analog for qubits.
 
+## Qiskit
+Qiskit is an open-source software development kit for working with quantum computers at the level of circuits, pulses, and algorithms. It provides tools for creating and manipulating quantum programs and running them on prototype quantum devices on IBM Quantum Experience or on simulators on a local computer. Wikipedia
+
 
 
