@@ -5,7 +5,7 @@
 
 The **TEC-1** (our Z80-based single-board computer) combined with Forth ( will convert to Mint later, is perfect for simple, educational quantum computing experiments — not real quantum hardware, but quantum-inspired simulations, quantum random number generation (QRNG), and qubit demos using the actual physics of light and electronics we already have access to.
 
-The ([tec-QUBIT](https://github.com/SteveJustin1963/tec-QUBIT/wiki)) contains **gold-tier content** — especially the **optical QRNG**, **C simulations**, and **KLM/LOQC ideas**. Let’s turn that into **real, hands-on experiments we can run on the TEC-1 with minimal extra parts**.
+The ([tec-QUBIT Wiki ](https://github.com/SteveJustin1963/tec-QUBIT/wiki)) contains **gold-tier content** — especially the **optical QRNG**, **C simulations**, and **KLM/LOQC ideas**. Let’s turn that into **real, hands-on experiments we can run on the TEC-1 with minimal extra parts**.
 
 ---
 
